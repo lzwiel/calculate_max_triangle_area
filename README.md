@@ -1,1 +1,0 @@
-# calculate_max_triangle_area
